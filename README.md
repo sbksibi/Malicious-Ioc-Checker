@@ -33,3 +33,5 @@ This Python script checks IP addresses and file hashes (MD5, SHA256) against the
 2. python3 MaliciousChecker.py
 
 ## Output Example
+
+![image](https://github.com/user-attachments/assets/78356d12-7752-4136-8b2e-0ff2e8eaa1b9)
