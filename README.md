@@ -17,7 +17,7 @@ This Python script checks IP addresses and file hashes (MD5, SHA256) against the
 
 1. Clone the repository:
    ```bash
-   git clone git@github.com:sbksibi/Virustotal.git
+   git clone https://github.com/sbksibi/Virustotal.git
    cd Virustotal
 2. Add your API key in the MaliciousChecker.py file by replacing your_virustotal_api_key with your actual key.
 2. ```bash
