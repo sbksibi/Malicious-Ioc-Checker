@@ -3,9 +3,9 @@ import time
 
 # List of VirusTotal API keys (rotate between them to avoid rate limits)
 API_KEYS = [
-    'API-KEY',
-    'API-KEY',
-    'API-KEY',
+    'your_virustotal_api_key',
+    'your_virustotal_api_key',
+    'your_virustotal_api_key',
     # Add more keys as needed
 ]
 
