@@ -19,7 +19,8 @@ This Python script checks IP addresses and file hashes (MD5, SHA256) against the
    ```bash
    git clone https://github.com/yourusername/MaliciousChecker.git
    cd MaliciousChecker
-2. pip install requests
+2. ```bash
+    pip install requests
 
 ## RUN
 
