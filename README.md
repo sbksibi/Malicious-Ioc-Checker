@@ -34,4 +34,5 @@ This Python script checks IP addresses and file hashes (MD5, SHA256) against the
 
 ## Output Example
 
-![image](https://github.com/user-attachments/assets/78356d12-7752-4136-8b2e-0ff2e8eaa1b9)
+![Screenshot 2024-12-11 163823](https://github.com/user-attachments/assets/ea32ffde-6493-41b6-ba38-161d9ca9e0cb)
+
