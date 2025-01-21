@@ -10,7 +10,6 @@ This Python script checks IP addresses and file hashes (MD5, SHA256) against the
 
 ## Requirements
 - Python 3.x
-- Internet connection
 - VirusTotal API key
 
 ## Setup
@@ -30,7 +29,10 @@ This Python script checks IP addresses and file hashes (MD5, SHA256) against the
     192.168.0.1
     8.8.8.8
     d41d8cd98f00b204e9800998ecf8427e
-2. python3 MaliciousChecker.py
+2. Run the script using the following command:
+ ```bash
+   python3 MaliciousChecker.py -f input.txt -api apikeys.txt
+ ```
 
 ## Output Example
 
